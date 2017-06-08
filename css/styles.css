@@ -46,3 +46,45 @@ table {
 }
 
 /*-------- сброс стилей ----------*/
+
+.first_block {
+	color: white;
+	height: 950px;
+	background: url(../images/first_bg.jpg) no-repeat center top;
+	background-size: 100%;
+	padding-top: 198px;
+}
+
+.h1_first_block{
+
+	font: 48px Parangon530C, Tahoma;
+	text-align: center;
+}
+
+.p_first_block{
+	width: 	831px;
+	font: 24px PTSans, Tahoma;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 52px;
+}
+
+.first_block_forms{
+	width: 872px;
+	margin: 68px auto;
+}
+
+
+
+.first_block_forms div{
+	display: inline-block;
+	margin: 0 auto;
+	font: 18px PTSans, Tahoma;
+}
+
+
+.form1 p{
+	position: absolute;
+	top: 10px;
+
+}

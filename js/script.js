@@ -1,19 +1,14 @@
-var char = document.getElementById('num').innerHTML;
+//   window.onload = function() {
+
+// var first, second;
+
+// first = document.getElementById('one');
 
 
-function run() {    
-    // run this code
+// var arr = ["Яблоко", "Апельсин", "Груша"];
 
-    setTimeout(afterTwoSeconds, 2000);    
-}
 
-function afterTwoSeconds (){
-	for (var i = 0; i > 525; ++i) {
-	console.log(i);
-	}
-
-	
-
-}
-
-run();
+// for (var i = 0; i < arr.length; i++) {
+//   first.innerHTML = arr[i];
+// }
+// }
